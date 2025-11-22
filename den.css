@@ -58,7 +58,7 @@ body {
 
 
 .navbar {
-	background: rgba(1, 1, 1, 1);
+	background: #2F2A3B;
 	border-bottom: none;
 	color: #000000;
 	border-radius: 0px
@@ -88,7 +88,7 @@ body {
 
 
 .breadcrumb {
-	background: rgba(1, 1, 1, 0.5) !important;
+	background: #2F2A3B !important;
         border: none;
 	border-radius: 0px
 }
@@ -312,7 +312,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: rgba(1, 1, 1, 1) !important;
+	background: #2F2A3B !important;
 	color: #000000 !important;
 	border-radius: 0px
 }
@@ -360,7 +360,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: rgba(1, 1, 1, 1);
+	background: #2F2A3B;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -370,7 +370,7 @@ td.right {
 
 
 .feature {
-	background: rgba(1, 1, 1, 1) !important;
+	background: #2F2A3B !important;
 	color: #000000 !important;
 	border: 1px solid #000000 !important;
 	border-radius: 0px !important
@@ -382,7 +382,7 @@ td.right {
 
 .feature,
 div.left {
-	background: rgba(1, 1, 1, 1);
+	background: #2F2A3B;
 	border: none;
 	border-radius: 0px !important
 }
@@ -392,7 +392,7 @@ div.left {
 
 
 .table .left {
-	background: rgba(1, 1, 1, 1);
+	background: #2F2A3B;
         border-radius: 0px
 }
 
