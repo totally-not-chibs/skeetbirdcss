@@ -16,9 +16,9 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 
 body {
-	background: url('BACKGROUND URL') center center fixed;
+	background: url('/skeetbirdcss/liodenbg.jpg') center center fixed;
 	background-size: 100%;
-	font-family: 'FONT NAME';
+	font-family: 'Stardos Stencil';
 	color: #2e2a2b
 }
 
