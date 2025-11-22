@@ -9,17 +9,17 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* FONT (From Google Fonts) */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap');
+@import url('FONT URL');
 
 
 /* BACKGROUND */
 
 
 body {
-	background: url('/skeetbirdcss/liodenbg.jpg') center center fixed;
+	background: url('BACKGROUND URL') center center fixed;
 	background-size: 100%;
-	font-family: 'Stardos Stencil';
-	color: #2e2a2b;
+	font-family: 'FONT NAME';
+	color: #2e2a2b
 }
 
 
@@ -58,7 +58,7 @@ body {
 
 
 .navbar {
-	background-color: #2F2A3B;
+	background: rgba(1, 1, 1, 0.5);
 	border-bottom: none;
 	color: #000000;
 	border-radius: 0px
@@ -88,7 +88,7 @@ body {
 
 
 .breadcrumb {
-	background: #2F2A3B !important;
+	background: rgba(1, 1, 1, 0.5) !important;
         border: none;
 	border-radius: 0px
 }
@@ -175,10 +175,10 @@ button.button, button.button:hover {
 
 
 h1 {
-	color: #EB6C0E;
+	color: #000000;
 	font-size: 90px;
 	text-align: center;
-        font-family: 'Stardos Stencil'
+        font-family: 'FONT NAME'
 }
 
 
@@ -188,7 +188,7 @@ h1 {
 
 
 h2 {
-	color: #EB6C0E;
+	color: #000000;
 	font-size: 24px;
 	text-align: center
 }
@@ -200,7 +200,7 @@ h2 {
 
 
 h3 {
-	color: #EB6C0E !important;
+	color: #000000 !important;
 	font-size: 14px !important
 }
 
@@ -209,7 +209,7 @@ h3 {
 
 
 .sidebar h3 {
-	color: #EB6C0E !important;
+	color: #000000 !important;
         font-size: 26px !important;
         font-family: 'FONT NAME'
 }
@@ -312,7 +312,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background-color: #2F2A3B !important;
+	background: rgba(1, 1, 1, 0.5) !important;
 	color: #000000 !important;
 	border-radius: 0px
 }
@@ -360,7 +360,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: #2F2A3B;
+	background: rgba(1, 1, 1, 0.5);
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -370,7 +370,7 @@ td.right {
 
 
 .feature {
-	background: #2F2A3B !important;
+	background: rgba(1, 1, 1, 0.5) !important;
 	color: #000000 !important;
 	border: 1px solid #000000 !important;
 	border-radius: 0px !important
@@ -382,7 +382,7 @@ td.right {
 
 .feature,
 div.left {
-	background: #2F2A3B;
+	background: rgba(1, 1, 1, 0.5);
 	border: none;
 	border-radius: 0px !important
 }
@@ -392,7 +392,7 @@ div.left {
 
 
 .table .left {
-	background: #2F2A3B;
+	background: rgba(1, 1, 1, 0.5);
         border-radius: 0px
 }
 
@@ -721,3 +721,4 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
