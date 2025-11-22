@@ -19,7 +19,7 @@ body {
 	background: url('/skeetbirdcss/liodenbg.jpg') center center fixed;
 	background-size: 100%;
 	font-family: 'Stardos Stencil';
-	color: #2e2a2b
+	color: #2e2a2b;
 }
 
 
@@ -31,14 +31,14 @@ body {
 	background: rgba(1, 1, 1, 0.5);
 	border: none;
 	box-shadow: none;
-	border-radius: 0px
+	border-radius: 0px;
 }
 
 
 /* LEFT SIDE */
 .col-md-9 {
 	background: none;
-        border-right: none
+        border-right: none;
 }
 
 
@@ -61,7 +61,7 @@ body {
 	background: rgba(1, 1, 1, 0.5);
 	border-bottom: none;
 	color: #000000;
-	border-radius: 0px
+	border-radius: 0px;
 }
 
 
@@ -69,7 +69,7 @@ body {
 
 
 .navbar li a {
-	color: #000000 !important
+	color: #000000 !important;
 }
 
 
@@ -80,7 +80,7 @@ body {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border-bottom: none;
 	color: #000000 !important;
-	border-radius: 0px
+	border-radius: 0px;
 }
 
 
