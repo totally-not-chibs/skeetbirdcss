@@ -312,7 +312,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: #2F2A3B !important;
+	background-color: #2F2A3B !important;
 	color: #000000 !important;
 	border-radius: 0px
 }
