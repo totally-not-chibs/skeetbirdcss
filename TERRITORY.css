@@ -105,8 +105,8 @@ Ryouta #276513 || plutoheart #52831/#58766 || tawnycollar #251887/#254590
 /*-------------------------*/
 
     /*Main Images & Gifs*/
-    --backgroundIMG: url('/skeetbirdcss/liodenbg.jpg');
-    --backgroundMobileIMG: url("/skeetbirdcss/liodenbg.jpg?raw=true");
+    --backgroundIMG: url("https://github.com/totally-not-chibs/skeetbirdcss/liodenbg.jpg?raw=true");
+    --backgroundMobileIMG: url("https://github.com/totally-not-chibs/skeetbirdcss/liodenbg.jpg?raw=true");
     --navbarMobileIMG: url("https://github.com/Hok-Z/F2U-CSS-TEMPLATE/blob/main/NavbarMobile.jpg?raw=true");
     --header: url(https://github.com/Hok-Z/F2U-CSS-TEMPLATE/blob/main/Header.jpg?raw=true)
         center center !important;
